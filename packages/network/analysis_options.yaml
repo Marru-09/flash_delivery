@@ -1,0 +1,9 @@
+include: package:very_good_analysis/analysis_options.yaml
+
+analyzer:
+  errors:
+    inference_failure_on_function_invocation: ignore
+    strict_raw_type: ignore
+  exclude:
+    - lib/src/l10n/*
+    - pubspec.yaml

@@ -1,0 +1,46 @@
+name: flash_delivery
+description: "A new Flutter project."
+
+publish_to: "none"
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.2.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  authentication:
+    path: packages/features/authentication
+  home:
+    path: packages/features/home
+  domain:
+    path: packages/domain
+  repositorie:
+    path: packages/repositorie
+  resource:
+    path: packages/resource
+
+  cupertino_icons: ^1.0.2
+  firebase_core: ^2.24.2
+  cloud_firestore: ^4.13.6
+  google_nav_bar: ^5.0.6
+  firebase_auth:
+  freezed:
+  shared_preferences:
+  google_fonts:
+  flutter_meedu: ^9.0.7
+  get:
+  flutter_bloc:
+  geolocator: ^10.1.0
+  provider:
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true

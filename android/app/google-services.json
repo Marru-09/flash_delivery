@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "574879042887",
+    "project_id": "flashdelivery-5af14",
+    "storage_bucket": "flashdelivery-5af14.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:574879042887:android:9f54783fb2353f1f441062",
+        "android_client_info": {
+          "package_name": "com.codigocorrecto.flash_delivery"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHbseOuzdhQxqOLaR3X50ehw1_rFAzYcE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
